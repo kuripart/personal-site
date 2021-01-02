@@ -1,6 +1,6 @@
 const degrees = [
   {
-    school: 'University of Toronro',
+    school: 'University of Toronto',
     degree: 'B.A.Sc. Electrical and Computer Engineering',
     link: 'https://www.utoronto.ca/',
     year: 2018,
